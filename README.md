@@ -1,5 +1,4 @@
-# Production and Operations Management (MGO 302)
-
+# UB Course Template (UB MGO ???; Fall 2025)
 
 ## 👨‍🏫 Instructor
 **Parshan Pakiman**  
@@ -14,10 +13,10 @@ University at Buffalo School of Management
 
 
 ## 🧑‍🏫 Teaching assistant
-**Mingyuan Yuan**  
-OMS Doctoral Student
+**????? ????**<!-- **Mingyuan Yuan**   -->  
+Doctoral Student, Operations Management and Strategy
 - 📍 Office Location: 326H Jacobs Management Center  
-- 📧 Email: [myuan2@buffalo.edu](mailto:myuan2@buffalo.edu)  
+- 📧 Email: <!-- [myuan2@buffalo.edu](mailto:myuan2@buffalo.edu)   -->
 - 🕒 Virtual Office Hours: *To Be Announced*  
 - 🔗 [TA Office Hours Link (Zoom)](#)
 
@@ -26,7 +25,7 @@ OMS Doctoral Student
 - 🗓️ **Semester**: Fall 2025  
 - 📍 **Class Location**: *To Be Announced*  
 - 🕒 **Class Time**: *To Be Announced*
-- This course is delivered in person, and that will be the primary mode of instruction. Students who wish to attend in an online asynchronous format must submit a written request to the instructor and obtain approval. Approval is contingent upon meeting the School of Management’s official guidelines for remote participation. Students are encouraged to reach out as early as possible to discuss any modality needs.
+- 🏫 **Course Mode**: This course is delivered in person.<!-- -  and that will be the primary mode of instruction. Students who wish to attend in an online asynchronous format must submit a written request to the instructor and obtain approval. Approval is contingent upon meeting the School of Management’s official guidelines for remote participation. Students are encouraged to reach out as early as possible to discuss any modality needs. -->
 
 
 ## 📘 Prerequisite or co-requisite  
