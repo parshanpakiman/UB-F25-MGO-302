@@ -2,10 +2,10 @@
 <p align="center"><img src="UB_logo.png" alt="University at Buffalo Logo" width="200"/></p>
 <div align="center"><hr style="width:100%; border: 2px solid #005bbb; background-color: #005bbb"></div>
 
-# UB Course Template (UB MGO ???; Fall 2025)
+# Production and Operations Management (MGO 302)
 
 ## 📑 Table of Contents
-- [UB Course Template (UB MGO ???; Fall 2025)](#ub-course-template-ub-mgo--fall-2025)
+- [Production and Operations Management (MGO 302)](#production-and-operations-management-mgo-302)
   - [📑 Table of Contents](#-table-of-contents)
   - [👨‍🏫 Instructor](#-instructor)
   - [🧑‍🏫 Teaching Assistant](#-teaching-assistant)
@@ -19,10 +19,22 @@
   - [🌍 Diversity and Inclusion](#-diversity-and-inclusion)
   - [🏛️ Campus Resources](#️-campus-resources)
   - [🧭 Course Objectives](#-course-objectives)
-  - [📦 Course Modules](#-course-modules)
-    - [Module 1: \[Module Title Here\]](#module-1-module-title-here)
-    - [Module 2: \[Module Title Here\]](#module-2-module-title-here)
-  - [📅 Course at a Glance (16 Weeks)](#-course-at-a-glance-16-weeks)
+    - [Week 1: Intro to OM / Providing Goods \& Services](#week-1-intro-to-om--providing-goods--services)
+    - [Week 2: Product Quality \& Development](#week-2-product-quality--development)
+    - [Week 3: Forecasting](#week-3-forecasting)
+    - [Week 4: Capacity \& Waiting](#week-4-capacity--waiting)
+    - [Week 5: Process \& Facility Selection](#week-5-process--facility-selection)
+    - [Week 6: Project Management](#week-6-project-management)
+    - [Week 7: Location Planning](#week-7-location-planning)
+    - [Week 8: Spring Break](#week-8-spring-break)
+    - [Week 9: Purchasing \& Supply Chain / Inventory Management](#week-9-purchasing--supply-chain--inventory-management)
+    - [Week 10: Inventory Management (cont.)](#week-10-inventory-management-cont)
+    - [Week 11: Aggregate Planning / Materials Requirement Planning](#week-11-aggregate-planning--materials-requirement-planning)
+    - [Week 12: Materials Requirement Planning (cont.)](#week-12-materials-requirement-planning-cont)
+    - [Week 13: Lean Operations / Quality Control](#week-13-lean-operations--quality-control)
+    - [Week 14: Quality Control / Scheduling](#week-14-quality-control--scheduling)
+    - [Week 15: Scheduling \& Final Review](#week-15-scheduling--final-review)
+  - [📅 Course at a Glance (15 Weeks + Finals)](#-course-at-a-glance-15-weeks--finals)
 
 ## 👨‍🏫 Instructor
 **Parshan Pakiman**  
@@ -38,7 +50,7 @@ University at Buffalo School of Management
   - 📅 By Appointment: Please email me to schedule
 
 ## 🧑‍🏫 Teaching Assistant
-**????? ????**  
+**Mingyuan Yuan**  
 Doctoral Student, Operations Management and Strategy  
 - 📍 Office Location: 326H Jacobs Management Center  
 - 📧 Email: [To Be Announced]  
@@ -48,18 +60,18 @@ Doctoral Student, Operations Management and Strategy
   - 📅 By Appointment: Please email me to schedule
 
 ## 📌 Logistics
-- 🗓️ **Semester**: Fall 2025  
+- 🗓️ **Semester**: Fall 2025 [UB's Calendar](https://www.buffalo.edu/registrar/calendars/future-academic-calendars/2025-26-academic-calendar.html#:~:text=Non%2DStandard%20Session-,Fall%20Semester%202025,-15%2DWeek%20(Standard))
 - 🎯 **Level**: Undergraduate  
 - 📍 **Class Location**: *To Be Announced*  
 - 🕒 **Class Time**: *To Be Announced*  
-- 🏫 **Course Mode**: This course is delivered in person.
+- 🏫 **Course Mode**: In-person
 
 ## 📘 Prerequisite or Co-requisite
-- *To Be Announced*
+- Introduction to Computers and Statistics (MGQ 201)
 
 ## 📚 Textbook
-- The required textbook for this course is: 
-- Amazon offers multiple editions and rental options, including a paperback version which is substantially cheaper. You are encouraged to choose the most affordable version that covers the required content.  
+- The main textbook for this course: *Practical Operations Management by Natalie Simpson and Philip Hancock, 2nd. Edition. Hercher Publishing Inc., 2017.*
+- [Amazon](https://a.co/d/bS8TDj7) offers multiple editions and rental options, including a paperback version which can be cheaper. You are encouraged to choose the most affordable version that covers the required content.  
 - Additional textbooks, articles, cases, or readings may be assigned depending on the topic. These will be announced as needed throughout the course.
 
 ## 💻 Course Technology
@@ -114,35 +126,149 @@ Doctoral Student, Operations Management and Strategy
 - Use case analysis to connect theory to practice  
 - Communicate operational insights effectively
 
-## 📦 Course Modules
+### Week 1: Intro to OM / Providing Goods & Services
+- **Key Concepts**: [To be added]  
+- **Dates**: Jan 31 & Feb 2  
+- **Chapters**: Chapters 1 & 2  
+- **Case Study**: None  
+- **Quiz**: None  
+- **Assignment**: Pre-EQS Module (opens 1/16, closes 2/9)
 
-### Module 1: [Module Title Here]
-- **Key Concepts**: [Brief summary of learning goals]  
-- **Dates**: Week [##] and Week [##]  
-- **Chapters**: Chapter [##], Chapter [##]  
-- **Case Study**: [Case title or “None”]  
-- **Quiz**: [Quiz # or “None”]  
-- **Assignment**: [Assignment title or description]
+### Week 2: Product Quality & Development
+- **Key Concepts**: [To be added]  
+- **Dates**: Feb 7 & Feb 9  
+- **Chapters**: Chapter 3  
+- **Case Study**: None  
+- **Quiz**: None  
+- **Assignment**: Mid-term EQS Module One (2/13–2/14)
+
+### Week 3: Forecasting
+- **Key Concepts**: [To be added]  
+- **Dates**: Feb 14 & Feb 16  
+- **Chapters**: Chapter 4  
+- **Case Study**: None  
+- **Quiz**: None  
+- **Assignment**: None
+
+### Week 4: Capacity & Waiting
+- **Key Concepts**: [To be added]  
+- **Dates**: Feb 21 & Feb 23  
+- **Chapters**: Chapter 5  
+- **Case Study**: None  
+- **Quiz**: None  
+- **Assignment**: Mid-term EQS Module Two (2/27–2/28); Exam One on 3/3
+
+### Week 5: Process & Facility Selection
+- **Key Concepts**: [To be added]  
+- **Dates**: Feb 28 & Mar 2  
+- **Chapters**: Chapter 6  
+- **Case Study**: None  
+- **Quiz**: None  
+- **Assignment**: Mid-term EQS Module Three (3/13–3/14)
+
+### Week 6: Project Management
+- **Key Concepts**: [To be added]  
+- **Dates**: Mar 7 & Mar 9  
+- **Chapters**: Chapter 7  
+- **Case Study**: None  
+- **Quiz**: None  
+- **Assignment**: None
+
+### Week 7: Location Planning
+- **Key Concepts**: [To be added]  
+- **Dates**: Mar 14 & Mar 16  
+- **Chapters**: Chapter 8  
+- **Case Study**: None  
+- **Quiz**: None  
+- **Assignment**: None
+
+### Week 8: Spring Break
+- **Key Concepts**: [To be added]  
+- **Dates**: Mar 21 & Mar 23  
+- **Chapters**: None  
+- **Case Study**: None  
+- **Quiz**: None  
+- **Assignment**: No class
+
+### Week 9: Purchasing & Supply Chain / Inventory Management
+- **Key Concepts**: [To be added]  
+- **Dates**: Mar 28 & Mar 30  
+- **Chapters**: Chapters 9 & 10  
+- **Case Study**: None  
+- **Quiz**: None  
+- **Assignment**: Native Sun Project due 3/31
+
+### Week 10: Inventory Management (cont.)
+- **Key Concepts**: [To be added]  
+- **Dates**: Apr 4 & Apr 6  
+- **Chapters**: Chapter 10  
+- **Case Study**: None  
+- **Quiz**: None  
+- **Assignment**: None
+
+### Week 11: Aggregate Planning / Materials Requirement Planning
+- **Key Concepts**: [To be added]  
+- **Dates**: Apr 11 & Apr 13  
+- **Chapters**: Chapter 11  
+- **Case Study**: None  
+- **Quiz**: None  
+- **Assignment**: Mid-term EQS Module Four (4/10–4/11); Exam Two on 4/14
+
+### Week 12: Materials Requirement Planning (cont.)
+- **Key Concepts**: [To be added]  
+- **Dates**: Apr 18 & Apr 20  
+- **Chapters**: Chapter 12  
+- **Case Study**: None  
+- **Quiz**: None  
+- **Assignment**: EQS Module Five (4/24–4/25); Fine Wine Rack Project due 5/5
+
+### Week 13: Lean Operations / Quality Control
+- **Key Concepts**: [To be added]  
+- **Dates**: Apr 25 & Apr 27  
+- **Chapters**: Chapters 12 & 13  
+- **Case Study**: None  
+- **Quiz**: None  
+- **Assignment**: EQS Module Six (5/8–5/9)
+
+### Week 14: Quality Control / Scheduling
+- **Key Concepts**: [To be added]  
+- **Dates**: May 2 & May 4  
+- **Chapters**: Chapter 14  
+- **Case Study**: None  
+- **Quiz**: None  
+- **Assignment**: None
+
+### Week 15: Scheduling & Final Review
+- **Key Concepts**: [To be added]  
+- **Dates**: May 9 & May 11  
+- **Chapters**: None  
+- **Case Study**: None  
+- **Quiz**: None  
+- **Assignment**: Post-EQS Module (5/13–5/16); Exam Three on 5/15
+
+
 
 ---
 
-### Module 2: [Module Title Here]
-- **Key Concepts**: [Brief summary of learning goals]  
-- **Dates**: Week [##] and Week [##]  
-- **Chapters**: Chapter [##], Chapter [##]  
-- **Case Study**: [Case title or “None”]  
-- **Quiz**: [Quiz # or “None”]  
-- **Assignment**: [Assignment title or description]
+## 📅 Course at a Glance (15 Weeks + Finals)
 
----
-
-## 📅 Course at a Glance (16 Weeks)
-
-| Week | Approx. Date       | Topic                | Required Reading      | Important Deadlines and Events      |
-|------|--------------------|----------------------|------------------------|--------------------------------------|
-| 1    | [To Be Announced]  | [Topic Placeholder]  | [Reading Placeholder] | [Deadline/Event Placeholder]         |
-| 2    | [To Be Announced]  | [Topic Placeholder]  | [Reading Placeholder] | [Deadline/Event Placeholder]         |
-| ...  | ...                | ...                  | ...                    | ...                                  |
-| 16   | [To Be Announced]  | [Topic Placeholder]  | [Reading Placeholder] | [Deadline/Event Placeholder]         |
+| Week   | Approx. Date      | Topic               | Required Reading      | Course Events  | UB Events                                                    |
+|--------|-------------------|---------------------|-----------------------|----------------|--------------------------------------------------------------|
+| 1      | Aug 25 – Aug 31   | [Topic Placeholder] | [Reading Placeholder] |                | ✅ First day of classes (Aug 25)                             |
+| 2      | Sept 1 – Sept 7   | [Topic Placeholder] | [Reading Placeholder] |                | ❌ Labor Day (Sept 1), ✅ Last day to drop/add (Sept 2)       |
+| 3      | Sept 8 – Sept 14  | [Topic Placeholder] | [Reading Placeholder] |                | Regular instruction                                          |
+| 4      | Sept 15 – Sept 21 | [Topic Placeholder] | [Reading Placeholder] |                | Regular instruction                                          |
+| 5      | Sept 22 – Sept 28 | [Topic Placeholder] | [Reading Placeholder] |                | Regular instruction                                          |
+| 6      | Sept 29 – Oct 5   | [Topic Placeholder] | [Reading Placeholder] |                | Regular instruction                                          |
+| 7      | Oct 6 – Oct 12    | [Topic Placeholder] | [Reading Placeholder] |                | Regular instruction                                          |
+| 8      | Oct 13 – Oct 19   | [Topic Placeholder] | [Reading Placeholder] |                | ❌ Fall Break (Oct 13–14), ✅ Classes resume (Oct 15)         |
+| 9      | Oct 20 – Oct 26   | [Topic Placeholder] | [Reading Placeholder] |                | 🔶 60% participation date (Oct 24)                           |
+| 10     | Oct 27 – Nov 2    | [Topic Placeholder] | [Reading Placeholder] |                | Regular instruction                                          |
+| 11     | Nov 3 – Nov 9     | [Topic Placeholder] | [Reading Placeholder] |                | Regular instruction                                          |
+| 12     | Nov 10 – Nov 16   | [Topic Placeholder] | [Reading Placeholder] |                | 🔶 Last day to resign classes (Nov 12)                       |
+| 13     | Nov 17 – Nov 23   | [Topic Placeholder] | [Reading Placeholder] |                | Regular instruction                                          |
+| 14     | Nov 24 – Nov 30   | [Topic Placeholder] | [Reading Placeholder] |                | ❌ Thanksgiving Break (Nov 26–29)                            |
+| 15     | Dec 1 – Dec 7     | [Topic Placeholder] | [Reading Placeholder] |                | ✅ Last week of classes, ✅ Last day of classes (Dec 8)       |
+| Finals | Dec 8 – Dec 17    | [Topic Placeholder] | [Reading Placeholder] |                | 🎓 Reading Day (Dec 9), Final Exams (Dec 10–17)              |
 
 <div align="center"><hr style="width:100%; border: 2px solid #005bbb; background-color: #005bbb"></div>
