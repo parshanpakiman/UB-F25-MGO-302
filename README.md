@@ -8,99 +8,141 @@
 - [Production and Operations Management (MGO 302)](#production-and-operations-management-mgo-302)
   - [📑 Table of Contents](#-table-of-contents)
   - [👨‍🏫 Instructor](#-instructor)
-  - [🧑‍🏫 Teaching Assistant](#-teaching-assistant)
+  - [🧑‍🏫 Student Assistant](#-student-assistant)
   - [📌 Logistics](#-logistics)
+  - [📚 About the Course](#-about-the-course)
+  - [📘 Textbook](#-textbook)
   - [📘 Prerequisite or Co-requisite](#-prerequisite-or-co-requisite)
-  - [📚 Textbook](#-textbook)
   - [💻 Course Technology](#-course-technology)
-  - [📂 Cases and Game](#-cases-and-game)
+    - [UB Learns](#ub-learns)
+    - [Zoom](#zoom)
+    - [Generative AI](#generative-ai)
+    - [📢 Student Responsibilities](#-student-responsibilities)
   - [🧾 Academic Integrity](#-academic-integrity)
   - [⚠️ Course Materials Policy](#️-course-materials-policy)
   - [🌍 Diversity and Inclusion](#-diversity-and-inclusion)
   - [🏛️ Campus Resources](#️-campus-resources)
-  - [🧭 Course Objectives](#-course-objectives)
-    - [Week 1: Intro to OM / Providing Goods \& Services](#week-1-intro-to-om--providing-goods--services)
-    - [Week 2: Product Quality \& Development](#week-2-product-quality--development)
-    - [Week 3: Forecasting](#week-3-forecasting)
-    - [Week 4: Capacity \& Waiting](#week-4-capacity--waiting)
-    - [Week 5: Process \& Facility Selection](#week-5-process--facility-selection)
-    - [Week 6: Project Management](#week-6-project-management)
-    - [Week 7: Location Planning](#week-7-location-planning)
-    - [Week 8: Spring Break](#week-8-spring-break)
-    - [Week 9: Purchasing \& Supply Chain / Inventory Management](#week-9-purchasing--supply-chain--inventory-management)
-    - [Week 10: Inventory Management (cont.)](#week-10-inventory-management-cont)
-    - [Week 11: Aggregate Planning / Materials Requirement Planning](#week-11-aggregate-planning--materials-requirement-planning)
-    - [Week 12: Materials Requirement Planning (cont.)](#week-12-materials-requirement-planning-cont)
-    - [Week 13: Lean Operations / Quality Control](#week-13-lean-operations--quality-control)
-    - [Week 14: Quality Control / Scheduling](#week-14-quality-control--scheduling)
-    - [Week 15: Scheduling \& Final Review](#week-15-scheduling--final-review)
-  - [📅 Course at a Glance (15 Weeks + Finals)](#-course-at-a-glance-15-weeks--finals)
+  - [📊 Grading Components](#-grading-components)
+  - [📅 Course Schedule](#-course-schedule)
+  - [| 16   | Dec 08 – Dec 12      | **Final exam review, and final exam (covers weeks 1–15)** | —              |](#-16----dec-08--dec-12-------final-exam-review-and-final-exam-covers-weeks-115----------------)
+  - [⚠️ Exam Dates – Please Read Carefully](#️-exam-dates--please-read-carefully)
 
 ## 👨‍🏫 Instructor
 **Parshan Pakiman**  
 Assistant Professor of Operations Management  
 Department of Operations Management and Strategy  
 University at Buffalo School of Management  
-- 📍 Office Location: *To Be Announced*  
-- 📧 Email: [parshanp@buffalo.edu](mailto:parshanp@buffalo.edu)  
-- 🌐 Web: [parshanpakiman.github.io](https://parshanpakiman.github.io/)  
-- 🕒 Office Hours: *To Be Announced*  
-  - 🔗 Virtual: [Zoom link](#)  
-  - 🏢 In-Person: At the office location  
-  - 📅 By Appointment: Please email me to schedule
+- 📍 Office Location: 342 Jacobs Management Center ([UB map](https://www.buffalo.edu/home/visiting-ub/map.html#JACOBS))
+- 📧 Email: [ParshanP@Buffalo.edu](mailto:parshanp@buffalo.edu)  
+- 🌐 Web: [ParshanPakiman.Github.io](https://parshanpakiman.github.io/)  
+- 🕒 Office Hours: Fridays, 2:00 PM – 3:00 PM, or by appointment  
+  - 🔗 Virtual: [https://buffalo.zoom.us/my/pakiman.office.hours](https://buffalo.zoom.us/my/pakiman.office.hours)  
+  - 🏢 In-Person: 342 Jacobs Management Center
 
-## 🧑‍🏫 Teaching Assistant
+## 🧑‍🏫 Student Assistant
 **Mingyuan Yuan**  
 Doctoral Student, Operations Management and Strategy  
-- 📍 Office Location: 326H Jacobs Management Center  
-- 📧 Email: [To Be Announced]  
-- 🕒 Office Hours: *To Be Announced*  
-  - 🔗 Virtual: [Zoom link](#)  
-  - 🏢 In-Person: At the office location  
-  - 📅 By Appointment: Please email me to schedule
+- 📍 Office Location: 326H Jacobs Management Center ([UB map](https://www.buffalo.edu/home/visiting-ub/map.html#JACOBS))
+- 📧 Email: [myuan2@buffalo.edu](mailto:myuan2@buffalo.edu)
+<!-- - 🕒 Office Hours:      Tuesdays 5:30 PM to 6:30 PM 
+  - 🔗 Virtual:         **TBD**
+  - 🏢 In-Person:       **TBD**
+  - 📅 By Appointment:  Please email to schedule -->
 
 ## 📌 Logistics
-- 🗓️ **Semester**: Fall 2025 [UB's Calendar](https://www.buffalo.edu/registrar/calendars/future-academic-calendars/2025-26-academic-calendar.html#:~:text=Non%2DStandard%20Session-,Fall%20Semester%202025,-15%2DWeek%20(Standard))
+- 🗓️ **Semester**: Fall 2025 ([UB calendar](https://www.buffalo.edu/registrar/calendars/current-academic-calendar.html))
 - 🎯 **Level**: Undergraduate  
-- 📍 **Class Location**: *To Be Announced*  
-- 🕒 **Class Time**: *To Be Announced*  
+- 📍 **Class Location**: Clemens Hall, Room 120 ([UB map](https://www.buffalo.edu/home/visiting-ub/map.html#CLEMEN))
+- 🕒 **Class Time**: 
+  - **Section 23235:** Monday, Wednesday, Friday from <u>11:00AM to 11:50AM</u>
+  - **Section 21536:** Monday, Wednesday, Friday from <u>12:00PM to 12:50PM</u>
 - 🏫 **Course Mode**: In-person
 
-## 📘 Prerequisite or Co-requisite
-- Introduction to Computers and Statistics (MGQ 201)
+## 📚 About the Course
 
-## 📚 Textbook
-- The main textbook for this course: *Practical Operations Management by Natalie Simpson and Philip Hancock, 2nd. Edition. Hercher Publishing Inc., 2017.*
-- [Amazon](https://a.co/d/bS8TDj7) offers multiple editions and rental options, including a paperback version which can be cheaper. You are encouraged to choose the most affordable version that covers the required content.  
-- Additional textbooks, articles, cases, or readings may be assigned depending on the topic. These will be announced as needed throughout the course.
+This course provides an introduction to the fundamental concepts, tools, and strategies in operations management, 
+focusing on how organizations design, manage, and improve their processes to match supply with demand. 
+Students will begin by learning how to model and analyze processes, evaluate capacity, and address variability and queueing effects. 
+The course then builds toward inventory management under both deterministic and uncertain demand, 
+incorporating models such as EOQ, newsvendor, and order-up-to. 
+After the midterm, students will explore forecasting techniques, risk pooling, and revenue management, 
+followed by supply chain fundamentals, coordination mechanisms, and performance drivers. 
+The final weeks focus on quality management, lean operations, and project management, equipping students with
+a broad set of analytical and managerial skills to diagnose operational challenges and implement effective solutions.
+By the end of the semester, students will be able to:
+- Understand foundational principles of operations and supply chain management  
+- Apply analytical tools to improve business processes  
+- Evaluate trade-offs in operational decision-making  
+- Communicate managerial insights
+
+## 📘 Textbook
+**Main Reference**  
+- Cachon, Gérard, and Christian Terwiesch. *Matching Supply with Demand: An Introduction to Operations Management*. 5th ed., McGraw Hill, 2023.
+
+**Supporting References**  
+- Simpson, Natalie C., and Philip G. Hancock. *Practical Operations Management*. 2nd ed., Hercher Publishing, 2017.  
+- Reid, R. Dan, and Nada R. Sanders. *Operations Management: An Integrated Approach*. 4th ed., John Wiley & Sons, 2019.
+
+**Notes:**
+- Amazon and other vendors offer multiple editions and rental options, including paperback versions that may be more affordable.  
+- You are encouraged to choose the most cost-effective version that covers the required content.  
+- Additional articles, cases, or readings may be assigned depending on the topic. These will be announced as needed throughout the course.
+
+
+## 📘 Prerequisite or Co-requisite
+- **Prerequisite:** MGQ 201  
+- **Co-requisite:** Completion of or concurrent enrollment in MGG 102 or MGG 150  
+
 
 ## 💻 Course Technology
 
-- **UB Learns** 
-  - The primary platform for this course is [UB Learns](http://ublearns.buffalo.edu/), which will serve as the central hub for course content, announcements, and grading.  
-  - Please familiarize yourself with UB Learns. You can explore its features and guides at [UB Learns Student Guide](https://www.buffalo.edu/lms/guides-students.html#title_0_copy:~:text=Quick%20Start%20Videos-,Available%20Guides,-Basics%20of%20UB)
+### UB Learns
+- The primary platform for this course is [UB Learns](http://ublearns.buffalo.edu/), which will serve as the central hub for course content, announcements, and grading.  
+- Please familiarize yourself with UB Learns. You can explore its features and guides at [UB Learns Student Guide](https://www.buffalo.edu/lms/guides-students.html#title_0_copy:~:text=Quick%20Start%20Videos-,Available%20Guides,-Basics%20of%20UB)
 
-- **Acadly** 
-  - We will also use [Acadly](https://www.acadly.com/) for lecture-related engagement, such as pre-lecture activities, polls, and out-of-class discussions.  
-  - 📌 You are **required to be set up on Acadly before the first class**.  
-  - Please let us know if you encounter any issues during setup.  
+### Zoom
+- I will hold office hours both in person and online. If you prefer to attend online or schedule a virtual meeting with me, we will use Zoom. 
+- Please log into your [UB Zoom](https://www.buffalo.edu/ubit/services/zoom.html) account before joining. You can access my scheduled Zoom meeting at https://buffalo.zoom.us/my/pakiman.office.hours.
 
-⚠️ It is essential that you have access to **UB Learns** and **Acadly** from the beginning of the semester. You are responsible for checking UB Learns regularly for updates. Log in and explore both platforms as soon as possible!
+### Generative AI
+Generative AI tools (e.g., ChatGPT, Claude, Gemini) can support your learning, but they must be used **ethically and responsibly**. 
 
-## 📂 Cases and Game
-- We might discuss case studies, which will be posted on UB Learns.  
-- Links and instructions will be shared before simulation-based activities.  
-- Participation in both case discussions and the simulation is required.
+✅ **Permitted Uses**  
+- Clarifying course concepts or terminology.  
+- Brainstorming ideas, examples, or alternative approaches.  
+- Practicing with additional problems or quizzes generated by AI.  
+- Improving clarity, grammar, or formatting of your own writing.  
+
+🚫 **Not Permitted**  
+- Using AI to complete homework, quizzes, or exams.  
+- Submitting any AI output as your own original work.  
+- Using AI to generate code, formulas, or problem solutions you do not fully understand.  
+
+⚠️ **Required Practice**  
+- **Attempt first:** Always create your own draft or solution before using AI.  
+- **Ask specifically:** Use AI to answer targeted questions or explain concepts, not to “do the work.”  
+- **Acknowledge use:** Whenever you use an AI tool, include a brief *AI Use Statement* in your submission.  
+  For example:  
+  > I used ChatGPT to clarify the definition of the EOQ formula.  
+- **Verification:** The instructor and student assistant may use AI-detection tools to help determine whether submitted work is AI-generated or written by the student. Misrepresenting AI-generated work as your own is considered academic fraud. Read more at the [UB Academic Integrity – Artificial Intelligence](https://www.buffalo.edu/academic-integrity/about/artificial-intelligence.html) page.
+
+### 📢 Student Responsibilities
+
+1. Ensure you have access to **UB Learns** and **Zoom** from the very beginning of the semester. Log in and familiarize yourself with both platforms as soon as possible.  
+2. Check **UB Learns** and your **UB email** regularly for course updates and announcements.  
+3. Stay current with class lectures — this is key to earning a good grade. Do not rely on UB Learns or your internet access to always be available without interruption.  
+4. All material covered in lectures is also included in your assigned readings. Your textbook remains your most reliable reference and should always be accessible.  
+5. 🚫 Eating or drinking is not permitted during class sessions.  
+6. 📧 All email communications must include **"MGO-302"** in the subject line to ensure a timely response.
 
 ## 🧾 Academic Integrity
 - Academic integrity is essential to your learning and to UB’s academic standards.  
 - You are expected to complete all work honestly and independently.  
-- **There is no group work in MGO ???.**  
+- **There is no group submission in MGO 302.**  
 - Misrepresenting someone else’s work as your own is academic fraud.  
 - Refer to the [UB Undergraduate Handbook](http://mgt.buffalo.edu/programs/undergrad/handbooks/handbook) for detailed policies.
 
 ## ⚠️ Course Materials Policy
-- Course materials are for your personal academic use only.  
 - Do not share, upload, reproduce, or distribute materials without written permission.  
 - Violations may result in disciplinary action under UB’s Academic Integrity Policy and Code of Conduct.
 
@@ -118,157 +160,64 @@ Doctoral Student, Operations Management and Strategy
 - 🧠 **Mental Health**: Counseling (716-645-2720), Health Services (716-829-3316), Health Promotion (716-645-2837)
 
 
-## 🧭 Course Objectives
+## 📊 Grading Components
 
-- Understand foundational principles of operations and supply chain management  
-- Apply analytical tools to improve business processes  
-- Evaluate trade-offs in operational decision-making  
-- Use case analysis to connect theory to practice  
-- Communicate operational insights effectively
+1. **Participation (5%)**  
+   Participation goes beyond attending class: it means actively engaging in discussions, asking thoughtful questions, and contributing to group activities. Grades will be based on the quality and consistency of your contributions.  
+   - Regular attendance and engagement provide the best chance to earn full credit.  
+   - Frequent absences will reduce your score.
 
-### Week 1: Intro to OM / Providing Goods & Services
-- **Key Concepts**: [To be added]  
-- **Dates**: Jan 31 & Feb 2  
-- **Chapters**: Chapters 1 & 2  
-- **Case Study**: None  
-- **Quiz**: None  
-- **Assignment**: Pre-EQS Module (opens 1/16, closes 2/9)
+2. **Quizzes (20%)**  
+   There will be seven in-class quizzes.  
+   - Each quiz will be administered during **the first 15 minutes of class**. Late arrivals will have reduced time; no extra time will be given.  
+   - Your top five scores out of the seven quizzes will count toward the 20% quiz portion of your final grade, with each of these five quizzes accounting for 4%.
+   - Quizzes will cover only the most recently taught material.  
+  
+3. **Homeworks (25%)**  
+   There will be five homework assignments, each worth 5% of your final grade.  
+   - Submit **individually** via **UB Learns** by **11:00 PM** on the due date.  
+   - Late submissions incur a **20% penalty** for that assignment.
+   - Work submitted more than **48 hours** after the deadline will receive **a zero**.
+   - Extensions, granted only in rare cases, will not exceed **48 hours**.
 
-### Week 2: Product Quality & Development
-- **Key Concepts**: [To be added]  
-- **Dates**: Feb 7 & Feb 9  
-- **Chapters**: Chapter 3  
-- **Case Study**: None  
-- **Quiz**: None  
-- **Assignment**: Mid-term EQS Module One (2/13–2/14)
+4. **Midterm Exam (20%)**  
+   - Covers the first half of the course; may include multiple-choice, problem-solving, and short written responses.
+   - Midterm exam date and time: **Friday, October 17, 2025**, from **11:00 AM to 12:50 PM** in **Clemens Hall, Room 120**.
 
-### Week 3: Forecasting
-- **Key Concepts**: [To be added]  
-- **Dates**: Feb 14 & Feb 16  
-- **Chapters**: Chapter 4  
-- **Case Study**: None  
-- **Quiz**: None  
-- **Assignment**: None
+5. **Final Exam (30%)**  
+   - Comprehensive, with emphasis on the second half; may include multiple-choice, short-answer, and short written responses.
+   - Final exam date and time: **Wednesday, December 10, 2025**, from **11:45 AM to 2:45 PM** in **Clemens Hall, Room 120**
 
-### Week 4: Capacity & Waiting
-- **Key Concepts**: [To be added]  
-- **Dates**: Feb 21 & Feb 23  
-- **Chapters**: Chapter 5  
-- **Case Study**: None  
-- **Quiz**: None  
-- **Assignment**: Mid-term EQS Module Two (2/27–2/28); Exam One on 3/3
-
-### Week 5: Process & Facility Selection
-- **Key Concepts**: [To be added]  
-- **Dates**: Feb 28 & Mar 2  
-- **Chapters**: Chapter 6  
-- **Case Study**: None  
-- **Quiz**: None  
-- **Assignment**: Mid-term EQS Module Three (3/13–3/14)
-
-### Week 6: Project Management
-- **Key Concepts**: [To be added]  
-- **Dates**: Mar 7 & Mar 9  
-- **Chapters**: Chapter 7  
-- **Case Study**: None  
-- **Quiz**: None  
-- **Assignment**: None
-
-### Week 7: Location Planning
-- **Key Concepts**: [To be added]  
-- **Dates**: Mar 14 & Mar 16  
-- **Chapters**: Chapter 8  
-- **Case Study**: None  
-- **Quiz**: None  
-- **Assignment**: None
-
-### Week 8: Spring Break
-- **Key Concepts**: [To be added]  
-- **Dates**: Mar 21 & Mar 23  
-- **Chapters**: None  
-- **Case Study**: None  
-- **Quiz**: None  
-- **Assignment**: No class
-
-### Week 9: Purchasing & Supply Chain / Inventory Management
-- **Key Concepts**: [To be added]  
-- **Dates**: Mar 28 & Mar 30  
-- **Chapters**: Chapters 9 & 10  
-- **Case Study**: None  
-- **Quiz**: None  
-- **Assignment**: Native Sun Project due 3/31
-
-### Week 10: Inventory Management (cont.)
-- **Key Concepts**: [To be added]  
-- **Dates**: Apr 4 & Apr 6  
-- **Chapters**: Chapter 10  
-- **Case Study**: None  
-- **Quiz**: None  
-- **Assignment**: None
-
-### Week 11: Aggregate Planning / Materials Requirement Planning
-- **Key Concepts**: [To be added]  
-- **Dates**: Apr 11 & Apr 13  
-- **Chapters**: Chapter 11  
-- **Case Study**: None  
-- **Quiz**: None  
-- **Assignment**: Mid-term EQS Module Four (4/10–4/11); Exam Two on 4/14
-
-### Week 12: Materials Requirement Planning (cont.)
-- **Key Concepts**: [To be added]  
-- **Dates**: Apr 18 & Apr 20  
-- **Chapters**: Chapter 12  
-- **Case Study**: None  
-- **Quiz**: None  
-- **Assignment**: EQS Module Five (4/24–4/25); Fine Wine Rack Project due 5/5
-
-### Week 13: Lean Operations / Quality Control
-- **Key Concepts**: [To be added]  
-- **Dates**: Apr 25 & Apr 27  
-- **Chapters**: Chapters 12 & 13  
-- **Case Study**: None  
-- **Quiz**: None  
-- **Assignment**: EQS Module Six (5/8–5/9)
-
-### Week 14: Quality Control / Scheduling
-- **Key Concepts**: [To be added]  
-- **Dates**: May 2 & May 4  
-- **Chapters**: Chapter 14  
-- **Case Study**: None  
-- **Quiz**: None  
-- **Assignment**: None
-
-### Week 15: Scheduling & Final Review
-- **Key Concepts**: [To be added]  
-- **Dates**: May 9 & May 11  
-- **Chapters**: None  
-- **Case Study**: None  
-- **Quiz**: None  
-- **Assignment**: Post-EQS Module (5/13–5/16); Exam Three on 5/15
+⚠️ All key dates are listed in the **Course Calendar** on UB Learns.
 
 
+## 📅 Course Schedule
 
+| Week | Dates (Mon–Fri)      | Topic                                                     | Chapter(s)     |
+|------|----------------------|-----------------------------------------------------------|----------------|
+| 1    | Aug 25 – Aug 29      | Introduction & Process View of Operations                | 1, 2           |
+| 2    | Sep 01 – Sep 05      | Process Analysis & Balancing                             | 3, 4           |
+| 3    | Sep 08 – Sep 12      | Variability in Processes                                 | 9.1–9.5        |
+| 4    | Sep 15 – Sep 19      | Queueing Fundamentals                                    | 9.6–9.10, 11   |
+| 5    | Sep 22 – Sep 26      | Managing Flow Interruptions & EOQ                        | 5              |
+| 6    | Sep 29 – Oct 03      | Inventory under Uncertain Demand (Newsvendor Model)      | 14             |
+| 7    | Oct 06 – Oct 10      | Multi-Period Inventory Systems (Order-up-to Model)       | 16             |
+| 8    | Oct 13 – Oct 17      | **Fall break, midterm review, and midterm exam (covers weeks 1–7)** | —    |
+| 9    | Oct 20 – Oct 24      | Forecasting                                              | 13             |
+| 10   | Oct 27 – Oct 31      | Risk Pooling                                             | 17             |
+| 11   | Nov 03 – Nov 07      | Revenue Management Fundamentals                          | 18.1–18.4      |
+| 12   | Nov 10 – Nov 14      | Supply Chain Fundamentals                                | 15, 19         |
+| 13   | Nov 17 – Nov 21      | Supply Chain Coordination                                | 19             |
+| 14   | Nov 24 – Nov 28      | Quality Management                                       | 7              |
+| 15   | Dec 01 – Dec 05      | Lean Operations                                          | 8              |
+| 16   | Dec 08 – Dec 12      | **Final exam review, and final exam (covers weeks 1–15)** | —              |
 ---
 
-## 📅 Course at a Glance (15 Weeks + Finals)
+## ⚠️ Exam Dates – Please Read Carefully
 
-| Week   | Approx. Date      | Topic               | Required Reading      | Course Events  | UB Events                                                    |
-|--------|-------------------|---------------------|-----------------------|----------------|--------------------------------------------------------------|
-| 1      | Aug 25 – Aug 31   | [Topic Placeholder] | [Reading Placeholder] |                | ✅ First day of classes (Aug 25)                             |
-| 2      | Sept 1 – Sept 7   | [Topic Placeholder] | [Reading Placeholder] |                | ❌ Labor Day (Sept 1), ✅ Last day to drop/add (Sept 2)       |
-| 3      | Sept 8 – Sept 14  | [Topic Placeholder] | [Reading Placeholder] |                | Regular instruction                                          |
-| 4      | Sept 15 – Sept 21 | [Topic Placeholder] | [Reading Placeholder] |                | Regular instruction                                          |
-| 5      | Sept 22 – Sept 28 | [Topic Placeholder] | [Reading Placeholder] |                | Regular instruction                                          |
-| 6      | Sept 29 – Oct 5   | [Topic Placeholder] | [Reading Placeholder] |                | Regular instruction                                          |
-| 7      | Oct 6 – Oct 12    | [Topic Placeholder] | [Reading Placeholder] |                | Regular instruction                                          |
-| 8      | Oct 13 – Oct 19   | [Topic Placeholder] | [Reading Placeholder] |                | ❌ Fall Break (Oct 13–14), ✅ Classes resume (Oct 15)         |
-| 9      | Oct 20 – Oct 26   | [Topic Placeholder] | [Reading Placeholder] |                | 🔶 60% participation date (Oct 24)                           |
-| 10     | Oct 27 – Nov 2    | [Topic Placeholder] | [Reading Placeholder] |                | Regular instruction                                          |
-| 11     | Nov 3 – Nov 9     | [Topic Placeholder] | [Reading Placeholder] |                | Regular instruction                                          |
-| 12     | Nov 10 – Nov 16   | [Topic Placeholder] | [Reading Placeholder] |                | 🔶 Last day to resign classes (Nov 12)                       |
-| 13     | Nov 17 – Nov 23   | [Topic Placeholder] | [Reading Placeholder] |                | Regular instruction                                          |
-| 14     | Nov 24 – Nov 30   | [Topic Placeholder] | [Reading Placeholder] |                | ❌ Thanksgiving Break (Nov 26–29)                            |
-| 15     | Dec 1 – Dec 7     | [Topic Placeholder] | [Reading Placeholder] |                | ✅ Last week of classes, ✅ Last day of classes (Dec 8)       |
-| Finals | Dec 8 – Dec 17    | [Topic Placeholder] | [Reading Placeholder] |                | 🎓 Reading Day (Dec 9), Final Exams (Dec 10–17)              |
+- The **midterm exam** for both sections of **MGO 302** is **tentatively scheduled** for **Friday, October 17, 2025**, from **11:00 AM to 12:50 PM** in **Clemens Hall, Room 120**. Any concerns or scheduling conflicts must be reported to the instructor at **parshanp@buffalo.edu** **immediately**.  
+- The **final exam** for both sections of **MGO 302** is scheduled by UB for **Wednesday, December 10, 2025**, from **11:45 AM to 2:45 PM** in **Clemens Hall, Room 120**. Please plan your travel and other commitments accordingly.
 
+
+\* This schedule is subject to change.
 <div align="center"><hr style="width:100%; border: 2px solid #005bbb; background-color: #005bbb"></div>
