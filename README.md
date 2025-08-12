@@ -192,7 +192,6 @@ Generative AI tools (e.g., ChatGPT, Claude, Gemini) can support your learning, b
 
 
 ## 📅 Course Schedule
-
 | Week | Dates (Mon–Fri)      | Topic                                                     | Chapter(s)     |
 |------|----------------------|-----------------------------------------------------------|----------------|
 | 1    | Aug 25 – Aug 29      | Introduction & Process View of Operations                | 1, 2           |
