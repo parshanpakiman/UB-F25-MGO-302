@@ -44,10 +44,8 @@ University at Buffalo School of Management
 Doctoral Student, Operations Management and Strategy  
 - 📍 Office Location: 326H Jacobs Management Center ([UB map](https://www.buffalo.edu/home/visiting-ub/map.html#JACOBS))
 - 📧 Email: [myuan2@buffalo.edu](mailto:myuan2@buffalo.edu)
-<!-- - 🕒 Office Hours:      Tuesdays 5:30 PM to 6:30 PM 
-  - 🔗 Virtual:         **TBD**
-  - 🏢 In-Person:       **TBD**
-  - 📅 By Appointment:  Please email to schedule -->
+- 🕒 Office Hours: By appointment — please email Mingyuan and cc me at [ParshanP@Buffalo.edu](mailto:parshanp@buffalo.edu)
+
 
 ## 📌 Logistics
 - 🗓️ **Semester**: Fall 2025 ([UB calendar](https://www.buffalo.edu/registrar/calendars/current-academic-calendar.html))
@@ -130,7 +128,7 @@ Generative AI tools (e.g., ChatGPT, Claude, Gemini) can support your learning, b
 
 1. Ensure you have access to **UB Learns** and **Zoom** from the very beginning of the semester. Log in and familiarize yourself with both platforms as soon as possible.  
 2. Check **UB Learns** and your **UB email** regularly for course updates and announcements.  
-3. Stay current with class lectures — this is key to earning a good grade. Do not rely on UB Learns or your internet access to always be available without interruption.  
+3. Stay current with class lectures — this is key to earning a good grade.
 4. All material covered in lectures is also included in your assigned readings. Your textbook remains your most reliable reference and should always be accessible.  
 5. 🚫 Eating or drinking is not permitted during class sessions.  
 6. 📧 All email communications must include **"MGO-302"** in the subject line to ensure a timely response.
@@ -174,8 +172,8 @@ Generative AI tools (e.g., ChatGPT, Claude, Gemini) can support your learning, b
    - Quizzes will cover only the most recently taught material.  
   
 3. **Homeworks (25%)**  
-   There will be five homework assignments, each worth 5% of your final grade.  
-   - Submit **individually** via **UB Learns** by **11:00 PM** on the due date.  
+   - There will be five homework assignments, each worth 5% of your final grade.  
+   - Submit via **UB Learns** by **11:00 PM** on the due date in **PDF format**.  
    - Late submissions incur a **20% penalty** for that assignment.
    - Work submitted more than **48 hours** after the deadline will receive **a zero**.
    - Extensions, granted only in rare cases, will not exceed **48 hours**.
@@ -188,7 +186,7 @@ Generative AI tools (e.g., ChatGPT, Claude, Gemini) can support your learning, b
    - Comprehensive, with emphasis on the second half; may include multiple-choice, short-answer, and short written responses.
    - Final exam date and time: **Wednesday, December 10, 2025**, from **11:45 AM to 2:45 PM** in **Clemens Hall, Room 120**
 
-⚠️ All key dates are listed in the **Course Calendar** on UB Learns.
+> ⚠️ **Make-up exam** will only be granted for documented medical emergencies or unavoidable circumstances.
 
 
 ## 📅 Course Schedule
@@ -212,11 +210,16 @@ Generative AI tools (e.g., ChatGPT, Claude, Gemini) can support your learning, b
 | 16   | Dec 08 – Dec 12      | **Final exam review, and final exam (covers weeks 1–15)** | —              |
 ---
 
+
+
 ## ⚠️ Exam Dates – Please Read Carefully
 
 - The **midterm exam** for both sections of **MGO 302** is **tentatively scheduled** for **Friday, October 17, 2025**, from **11:00 AM to 12:50 PM** in **Clemens Hall, Room 120**. Any concerns or scheduling conflicts must be reported to the instructor at **parshanp@buffalo.edu** **immediately**.  
 - The **final exam** for both sections of **MGO 302** is scheduled by UB for **Wednesday, December 10, 2025**, from **11:45 AM to 2:45 PM** in **Clemens Hall, Room 120**. Please plan your travel and other commitments accordingly.
 
 
-\* This schedule is subject to change.
+---
+**Note:** The instructor gratefully acknowledges the guidance and resources provided by faculty across UB, UChicago, and UIC in preparing this course.
+
+
 <div align="center"><hr style="width:100%; border: 2px solid #005bbb; background-color: #005bbb"></div>
