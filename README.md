@@ -32,12 +32,12 @@
 Assistant Professor of Operations Management  
 Department of Operations Management and Strategy  
 University at Buffalo School of Management  
-- 📍 Office Location: 342 Jacobs Management Center ([UB map](https://www.buffalo.edu/home/visiting-ub/map.html#JACOBS))
+- 📍 Office Location: 343 Jacobs Management Center ([UB map](https://www.buffalo.edu/home/visiting-ub/map.html#JACOBS))
 - 📧 Email: [ParshanP@Buffalo.edu](mailto:parshanp@buffalo.edu)  
 - 🌐 Web: [ParshanPakiman.Github.io](https://parshanpakiman.github.io/)  
 - 🕒 Office Hours: Fridays, 2:00 PM – 3:00 PM, or by appointment  
   - 🔗 Virtual: [https://buffalo.zoom.us/my/pakiman.office.hours](https://buffalo.zoom.us/my/pakiman.office.hours)  
-  - 🏢 In-Person: 342 Jacobs Management Center
+  - 🏢 In-Person: 343 Jacobs Management Center
 
 ## 🧑‍🏫 Student Assistant
 **Mingyuan Yuan**  
