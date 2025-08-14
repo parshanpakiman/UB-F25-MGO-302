@@ -44,8 +44,7 @@ University at Buffalo School of Management
 Doctoral Student, Operations Management and Strategy  
 - 📍 Office Location: 326H Jacobs Management Center ([UB map](https://www.buffalo.edu/home/visiting-ub/map.html#JACOBS))
 - 📧 Email: [myuan2@buffalo.edu](mailto:myuan2@buffalo.edu)
-- 🕒 Office Hours: By appointment — please email Mingyuan and cc me at [ParshanP@Buffalo.edu](mailto:parshanp@buffalo.edu)
-
+- 🕒 Office Hours: Wedensday, 5:00 PM – 6:00 PM, or by appointment
 
 ## 📌 Logistics
 - 🗓️ **Semester**: Fall 2025 ([UB calendar](https://www.buffalo.edu/registrar/calendars/current-academic-calendar.html))
