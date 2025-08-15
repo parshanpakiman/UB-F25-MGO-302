@@ -167,7 +167,7 @@ Generative AI tools (e.g., ChatGPT, Claude, Gemini) can support your learning, b
 
 2. **Quizzes (20%)**  
    There will be seven in-class quizzes.  
-   - Each quiz will be administered during **the first 15 minutes of class**. Late arrivals will have reduced time; no extra time will be given.  
+   - Each quiz will be administered online during **the first 15 minutes of class**. Late arrivals will have reduced time; no extra time will be given.  
    - Your top five scores out of the seven quizzes will count toward the 20% quiz portion of your final grade, with each of these five quizzes accounting for 4%.
    - Quizzes will cover only the most recently taught material.  
   
@@ -192,6 +192,26 @@ Generative AI tools (e.g., ChatGPT, Claude, Gemini) can support your learning, b
 ## 📅 Course Schedule
 | Week | Dates (Mon–Fri)      | Topic                                                     | Chapter(s)     |
 |------|----------------------|-----------------------------------------------------------|----------------|
+| 1    | Aug 25 – Aug 29      | Introduction & Process View of Operations                 | 1              |
+| 2    | Sep 01 – Sep 05      | Process analysis and Little’s law                         | 2,3            |
+| 3    | Sep 08 – Sep 12      | Process analysis continued                                | 2,3            |
+| 4    | Sep 15 – Sep 19      | Labor costs and process capacity                          | 3,4            |
+| 5    | Sep 22 – Sep 26      | Variability in Processes                                  | 9.1–9.5        |
+| 6    | Sep 29 – Oct 03      | Variability in Processes continued                        | 9.6–9.10       |
+| 7    | Oct 06 – Oct 10      | Quality Management                                        | 7              |
+| 8    | Oct 13 – Oct 17      | **Fall break, midterm review, and midterm exam (covers weeks 1–7)** | —    |
+| 9    | Oct 20 – Oct 24      | Inventory management with setup times and no demand uncertainty | 9        |
+| 10   | Oct 27 – Oct 31      | Inventory management with demand uncertainty              | 14             |
+| 11   | Nov 03 – Nov 07      | Inventory management with demand uncertainty continued    | 14             |
+| 12   | Nov 10 – Nov 14      | Forecasting                                               | 13             |
+| 13   | Nov 17 – Nov 21      | Basics of Supply Chain                                    | 15, 19, slides |
+| 14   | Nov 24 – Nov 28      | Basics of Supply Chain continued                          | 15, 19, slides |
+| 15   | Dec 01 – Dec 05      | Basics of Revenue Management                              | 18.1–18.4      |
+| 16   | Dec 08 – Dec 12      | **Final exam review, and final exam (covers weeks 1–15)** | —              |
+
+<!-- ## 📅 Course Schedule
+| Week | Dates (Mon–Fri)      | Topic                                                     | Chapter(s)     |
+|------|----------------------|-----------------------------------------------------------|----------------|
 | 1    | Aug 25 – Aug 29      | Introduction & Process View of Operations                | 1, 2           |
 | 2    | Sep 01 – Sep 05      | Process Analysis & Balancing                             | 3, 4           |
 | 3    | Sep 08 – Sep 12      | Variability in Processes                                 | 9.1–9.5        |
@@ -208,7 +228,7 @@ Generative AI tools (e.g., ChatGPT, Claude, Gemini) can support your learning, b
 | 14   | Nov 24 – Nov 28      | Quality Management                                       | 7              |
 | 15   | Dec 01 – Dec 05      | Lean Operations                                          | 8              |
 | 16   | Dec 08 – Dec 12      | **Final exam review, and final exam (covers weeks 1–15)** | —              |
----
+--- -->
 
 
 
