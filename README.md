@@ -8,7 +8,7 @@
 - [Production and Operations Management (MGO 302)](#production-and-operations-management-mgo-302)
   - [📑 Table of Contents](#-table-of-contents)
   - [👨‍🏫 Instructor](#-instructor)
-  - [🧑‍🏫 Student Assistant](#-student-assistant)
+  - [🧑‍🏫 Student/Teaching Assistant](#-studentteaching-assistant)
   - [📌 Logistics](#-logistics)
   - [📚 About the Course](#-about-the-course)
   - [📘 Textbook](#-textbook)
@@ -39,12 +39,13 @@ University at Buffalo School of Management
   - 🔗 Virtual: [https://buffalo.zoom.us/my/pakiman.office.hours](https://buffalo.zoom.us/my/pakiman.office.hours)  
   - 🏢 In-Person: 343 Jacobs Management Center
 
-## 🧑‍🏫 Student Assistant
+## 🧑‍🏫 Student/Teaching Assistant
 **Mingyuan Yuan**  
 Doctoral Student, Operations Management and Strategy  
-- 📍 Office Location: 326H Jacobs Management Center ([UB map](https://www.buffalo.edu/home/visiting-ub/map.html#JACOBS))
 - 📧 Email: [myuan2@buffalo.edu](mailto:myuan2@buffalo.edu)
-- 🕒 Office Hours: Wedensdays, 5:00 PM – 6:00 PM, or by appointment
+- 🕒 Office Hours: Tuesdays, 5:00 PM – 6:00 PM, or by appointment
+  - 🔗 Virtual: TBD
+  - 🏢 In-Person: TBD
 
 ## 📌 Logistics
 - 🗓️ **Semester**: Fall 2025 ([UB calendar](https://www.buffalo.edu/registrar/calendars/current-academic-calendar.html))
