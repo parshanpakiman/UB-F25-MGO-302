@@ -200,7 +200,7 @@ Generative AI tools (e.g., ChatGPT, Claude, Gemini) can support your learning, b
 | 6    | Sep 29 – Oct 03      | Variability in Processes continued                        | 9.6–9.10       |
 | 7    | Oct 06 – Oct 10      | Quality Management                                        | 7              |
 | 8    | Oct 13 – Oct 17      | **Fall break, midterm review, and midterm exam (covers weeks 1–7)** | —    |
-| 9    | Oct 20 – Oct 24      | Inventory management with setup times and no demand uncertainty | 9        |
+| 9    | Oct 20 – Oct 24      | Inventory management with setup times and no demand uncertainty | 5        |
 | 10   | Oct 27 – Oct 31      | Inventory management with demand uncertainty              | 14             |
 | 11   | Nov 03 – Nov 07      | Inventory management with demand uncertainty continued    | 14             |
 | 12   | Nov 10 – Nov 14      | Forecasting                                               | 13             |
