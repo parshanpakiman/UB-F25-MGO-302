@@ -44,7 +44,7 @@ University at Buffalo School of Management
 Doctoral Student, Operations Management and Strategy  
 - 📧 Email: [myuan2@buffalo.edu](mailto:myuan2@buffalo.edu)
 - 🕒 Office Hours: Tuesdays, 5:00 PM – 6:00 PM, or by appointment
-  - 🔗 Virtual: TBD
+  - 🔗 Virtual: [ https://buffalo.zoom.us/j/98969375035](https://buffalo.zoom.us/j/98969375035)
   - 🏢 In-Person: TBD
 
 ## 📌 Logistics
