@@ -165,6 +165,7 @@ Generative AI tools (e.g., ChatGPT, Claude, Gemini) can support your learning, b
    - Regular attendance and engagement provide the best chance to earn full credit.  
    - Frequent absences will reduce your score.
 
+
 2. **Quizzes (20%)**  
    There will be seven in-class quizzes.  
    - Each quiz will be administered online during **the first 15 minutes of class**. Late arrivals will have reduced time; no extra time will be given.  
@@ -192,7 +193,7 @@ Generative AI tools (e.g., ChatGPT, Claude, Gemini) can support your learning, b
 ## 📅 Course Schedule
 | Week | Dates (Mon–Fri)      | Topic                                                     | Chapter(s)     |
 |------|----------------------|-----------------------------------------------------------|----------------|
-| 1    | Aug 25 – Aug 29      | Introduction & Process View of Operations                 | 1              |
+| 1    | Aug 25 – Aug 29      | Introduction & What is Operations Management              | 1              |
 | 2    | Sep 01 – Sep 05      | Process analysis and Little’s law                         | 2,3            |
 | 3    | Sep 08 – Sep 12      | Process analysis continued                                | 2,3            |
 | 4    | Sep 15 – Sep 19      | Labor costs and process capacity                          | 3,4            |
@@ -208,6 +209,8 @@ Generative AI tools (e.g., ChatGPT, Claude, Gemini) can support your learning, b
 | 14   | Nov 24 – Nov 28      | Basics of Supply Chain continued                          | 15, 19, slides |
 | 15   | Dec 01 – Dec 05      | Basics of Revenue Management                              | 18.1–18.4      |
 | 16   | Dec 08 – Dec 12      | **Final exam review, and final exam (covers weeks 1–15)** | —              |
+
+⚠️ Students are required to read the assigned chapters of the textbook in order to participate in class discussions and complete assignments.
 
 <!-- ## 📅 Course Schedule
 | Week | Dates (Mon–Fri)      | Topic                                                     | Chapter(s)     |
