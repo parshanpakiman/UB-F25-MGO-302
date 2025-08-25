@@ -192,7 +192,7 @@ Generative AI tools (e.g., ChatGPT, Claude, Gemini) can support your learning, b
 
 
 ## 📅 Course Schedule
-| Week | Dates (Mon–Fri)      | Topic                                                     | Chapter(s)     |
+| Week | Dates (Mon–Fri)      | Topic                                                     | Reading Assignment & Chapter(s)     |
 |------|----------------------|-----------------------------------------------------------|----------------|
 | 1    | Aug 25 – Aug 29      | Introduction & What is Operations Management              | 1              |
 | 2    | Sep 01 – Sep 05      | Process analysis and Little’s law                         | 2,3            |
