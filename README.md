@@ -181,8 +181,12 @@ Generative AI tools (e.g., ChatGPT, Claude, Gemini) can support your learning, b
    - Extensions, granted only in rare cases, will not exceed **48 hours**.
 
 4. **Midterm Exam (20%)**  
-   - Covers the first half of the course; may include multiple-choice, problem-solving, and short written responses.
-   - Midterm exam date and time: **Friday, October 17, 2025**, from **11:00 AM to 12:50 PM** in **Clemens Hall, Room 120**.
+  - Covers the first half of the course; may include multiple-choice, problem-solving, and short written responses.
+  - Midterm exam date and time: **Friday, October 17, 2025**
+    - **Section 23235:**  from **11:00 AM** to **11:50 AM** in **Clemens Hall, Room 120**.
+    - **Section 21536:**  from **12:00 PM** to **12:50 PM** in **Clemens Hall, Room 120**.
+   
+    
 
 5. **Final Exam (30%)**  
    - Comprehensive, with emphasis on the second half; may include multiple-choice, short-answer, and short written responses.
