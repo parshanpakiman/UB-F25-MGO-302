@@ -242,7 +242,10 @@ Generative AI tools (e.g., ChatGPT, Claude, Gemini) can support your learning, b
 
 ## ⚠️ Exam Dates – Please Read Carefully
 
-- The **midterm exam** for both sections of **MGO 302** is **tentatively scheduled** for **Friday, October 17, 2025**, from **11:00 AM to 12:50 PM** in **Clemens Hall, Room 120**. Any concerns or scheduling conflicts must be reported to the instructor at **parshanp@buffalo.edu** **immediately**.  
+- The **midterm exam** for both sections of **MGO 302** is scheduled for **Friday, October 17, 2025**. Please note the time of your exam depends on the section in which you are registered:
+  - **Section 23235:** **11:00 AM – 11:50 AM** in **Clemens Hall, Room 120**  
+  - **Section 21536:** **12:00 PM – 12:50 PM** in **Clemens Hall, Room 120**
+   
 - The **final exam** for both sections of **MGO 302** is scheduled by UB for **Wednesday, December 10, 2025**, from **11:45 AM to 2:45 PM** in **Clemens Hall, Room 120**. Please plan your travel and other commitments accordingly.
 
 
