@@ -199,7 +199,7 @@ Generative AI tools (e.g., ChatGPT, Claude, Gemini) can support your learning, b
 | Week | Dates (Mon–Fri)      | Topic                                                     | Reading Assignment & Chapter(s)     |
 |------|----------------------|-----------------------------------------------------------|----------------|
 | 1    | Aug 25 – Aug 29      | Introduction & What is Operations Management              | 1 (pages 1-9)              |
-| 2    | Sep 01 – Sep 05      | Process analysis and Little’s law                         | 2,3            |
+| 2    | Sep 01 – Sep 05      | Process analysis and Little’s law                         | 2,3 (pages 10-16, 32-40)            |
 | 3    | Sep 08 – Sep 12      | Process analysis continued                                | 2,3            |
 | 4    | Sep 15 – Sep 19      | Labor costs and process capacity                          | 3,4            |
 | 5    | Sep 22 – Sep 26      | Variability in Processes                                  | 9.1–9.5        |
