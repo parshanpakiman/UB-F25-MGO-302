@@ -204,7 +204,7 @@ Generative AI tools (e.g., ChatGPT, Claude, Gemini) can support your learning, b
 | 4    | Sep 15 – Sep 19      | Labor costs and process imporvement                       | 4 (pages 56-80)                     |
 | 5    | Sep 22 – Sep 26      | Variability in Processes                                  | 9.1–9.5 (pages 171-183)     |
 | 6    | Sep 29 – Oct 03      | Variability in Processes continued                        | 9.6–9.10 (pages 184-190 & pages 194-202)      |
-| 7    | Oct 06 – Oct 10      | Quality Management                                        | 7              |
+| 7    | Oct 06 – Oct 10      | Quality Management                                        | 7  (pages 128-135 & pages 138-149)             |
 | 8    | Oct 13 – Oct 17      | **Fall break, midterm review, and midterm exam (covers weeks 1–6)** | —    |
 | 9    | Oct 20 – Oct 24      | Inventory management with setup times and no demand uncertainty | 5        |
 | 10   | Oct 27 – Oct 31      | Inventory management with demand uncertainty              | 14             |
