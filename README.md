@@ -192,6 +192,26 @@ Generative AI tools (e.g., ChatGPT, Claude, Gemini) can support your learning, b
    - Comprehensive, with emphasis on the second half; may include multiple-choice, short-answer, and short written responses.
    - Final exam date and time: **Wednesday, December 10, 2025**, from **11:45 AM to 2:45 PM** in **Clemens Hall, Room 120**
 
+
+### Curving Policy
+
+Grades in this course are curved to ensure fairness. After raw scores are calculated and weighted according to the grading components, they are standardized and adjusted to a target grade distribution. The standardization formula is:  **z = (your score − class average) / class standard deviation**. Each standardized score is then mapped so that the class mean is 85% and the standard deviation is 8%. This schema centers grades around the B+/A– threshold and roughly one letter-grade separation per standard deviation. In other words, your adjusted (target) score reflects your relative performance compared to the rest of the class, rather than your raw percentage alone. The letter grade conversion is as follows:
+
+| Letter Grade | Cutoff (Curved Target Score) |
+|:--------------|:----------------------|
+| A             | ≥ 0.92                |
+| A−            | ≥ 0.89                |
+| B+            | ≥ 0.86                |
+| B             | ≥ 0.82                |
+| B−            | ≥ 0.79                |
+| C+            | ≥ 0.76                |
+| C             | ≥ 0.72                |
+| C−            | ≥ 0.69                |
+| D             | ≥ 0.64                |
+| F             | < 0.64                |
+
+
+
 > ⚠️ **Make-up exam** will only be granted for documented medical emergencies or unavoidable circumstances.
 
 
