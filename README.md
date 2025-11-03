@@ -227,7 +227,7 @@ Grades in this course are curved to ensure fairness. After raw scores are calcul
 | 7    | Oct 06 – Oct 10      | Quality Management                                        | 7  (pages 128-135 & pages 138-149)             |
 | 8    | Oct 13 – Oct 17      | **Fall break, midterm review, and midterm exam (covers weeks 1–6)** | —    |
 | 9    | Oct 20 – Oct 24      | Inventory management with setup times and no demand uncertainty | 5 (pages 81-110)        |
-| 10   | Oct 27 – Oct 31      | Inventory management with demand uncertainty              | 5 (multi-product EOQ from slidess), 14 (pages 293-296 & pages 307-312)          -|
+| 10   | Oct 27 – Oct 31      | Inventory management with demand uncertainty              | 5 (multi-product EOQ from slidess), 14 (pages 293-296 & pages 307-312) |
 | 11   | Nov 03 – Nov 07      | Inventory management with demand uncertainty continued    | 14 (pages 296-302 & pages 314)             |
 | 12   | Nov 10 – Nov 14      | Forecasting                                               | 13             |
 | 13   | Nov 17 – Nov 21      | Basics of Supply Chain                                    | 15, 19, slides |
