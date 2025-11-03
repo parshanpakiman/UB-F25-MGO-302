@@ -219,16 +219,16 @@ Grades in this course are curved to ensure fairness. After raw scores are calcul
 | Week | Dates (Mon–Fri)      | Topic                                                     | Reading Assignment & Chapter(s)     |
 |------|----------------------|-----------------------------------------------------------|----------------|
 | 1    | Aug 25 – Aug 29      | Introduction & What is Operations Management              | 1 (pages 1-9)                       |
-| 2    | Sep 01 – Sep 05      | Process analysis and Little’s law                         | 2,3 (pages 10-19, 32-44)            |
-| 3    | Sep 08 – Sep 12      | Process analysis continued                                | 2,3 (pages 10-19, 32-44)            |
+| 2    | Sep 01 – Sep 05      | Process analysis and Little’s law                         | 2,3 (pages 10-19 & pages 32-44)            |
+| 3    | Sep 08 – Sep 12      | Process analysis continued                                | 2,3 (pages 10-19 & pages 32-44)            |
 | 4    | Sep 15 – Sep 19      | Labor costs and process imporvement                       | 4 (pages 56-80)                     |
 | 5    | Sep 22 – Sep 26      | Variability in Processes                                  | 9.1–9.5 (pages 171-183)     |
 | 6    | Sep 29 – Oct 03      | Variability in Processes continued                        | 9.6–9.10 (pages 184-190 & pages 194-202)      |
 | 7    | Oct 06 – Oct 10      | Quality Management                                        | 7  (pages 128-135 & pages 138-149)             |
 | 8    | Oct 13 – Oct 17      | **Fall break, midterm review, and midterm exam (covers weeks 1–6)** | —    |
 | 9    | Oct 20 – Oct 24      | Inventory management with setup times and no demand uncertainty | 5 (pages 81-110)        |
-| 10   | Oct 27 – Oct 31      | Inventory management with demand uncertainty              | 5 (multi-product EOQ from slidess), 14          -|
-| 11   | Nov 03 – Nov 07      | Inventory management with demand uncertainty continued    | 14             |
+| 10   | Oct 27 – Oct 31      | Inventory management with demand uncertainty              | 5 (multi-product EOQ from slidess), 14 (pages 293-296 & pages 307-312)          -|
+| 11   | Nov 03 – Nov 07      | Inventory management with demand uncertainty continued    | 14 (pages 296-302 & pages 314)             |
 | 12   | Nov 10 – Nov 14      | Forecasting                                               | 13             |
 | 13   | Nov 17 – Nov 21      | Basics of Supply Chain                                    | 15, 19, slides |
 | 14   | Nov 24 – Nov 28      | Basics of Supply Chain continued                          | 15, 19, slides |
