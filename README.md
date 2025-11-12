@@ -245,7 +245,14 @@ Grades in this course are curved to ensure fairness. After raw scores are calcul
   - **Section 23235:** **11:00 AM – 11:50 AM** in **Clemens Hall, Room 120**  
   - **Section 21536:** **12:00 PM – 12:50 PM** in **Clemens Hall, Room 120**
    
-- The **final exam** for both sections of **MGO 302** is scheduled by UB for **Wednesday, December 10, 2025**, from **11:45 AM to 2:45 PM** in **Clemens Hall, Room 120**. Please plan your travel and other commitments accordingly.
+- The **final exam** are scheduled by UB as follow. Please plan your travel and other commitments accordingly.
+
+| Course Number | Final Exam Date      | Location 
+|---------------| --------------------------------------------------------------------| ----
+| MGO 302LEC-F5O (23235); 11 AM Class	 |	12/10/2025, Wednesday	11:45AM - 2:45PM | 	Clemen 120 
+| MGO 302LEC-F2O (21536); 12 PM Class	 |  12/12/2025, Friday	11:45AM - 2:45PM	 | Clemen 120	
+
+
 
 
 ---
