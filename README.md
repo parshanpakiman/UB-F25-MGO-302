@@ -216,48 +216,27 @@ Grades in this course are curved to ensure fairness. After raw scores are calcul
 
 
 ## 📅 Course Schedule
-| Week | Dates (Mon–Fri)      | Topic                                                     | Reading Assignment & Chapter(s)     |
-|------|----------------------|-----------------------------------------------------------|----------------|
-| 1    | Aug 25 – Aug 29      | Introduction & What is Operations Management              | 1 (pages 1-9)                       |
-| 2    | Sep 01 – Sep 05      | Process analysis and Little’s law                         | 2,3 (pages 10-19 & pages 32-44)            |
-| 3    | Sep 08 – Sep 12      | Process analysis continued                                | 2,3 (pages 10-19 & pages 32-44)            |
-| 4    | Sep 15 – Sep 19      | Labor costs and process imporvement                       | 4 (pages 56-80)                     |
-| 5    | Sep 22 – Sep 26      | Variability in Processes                                  | 9.1–9.5 (pages 171-183)     |
-| 6    | Sep 29 – Oct 03      | Variability in Processes continued                        | 9.6–9.10 (pages 184-190 & pages 194-202)      |
-| 7    | Oct 06 – Oct 10      | Quality Management                                        | 7  (pages 128-135 & pages 138-149)             |
-| 8    | Oct 13 – Oct 17      | **Fall break, midterm review, and midterm exam (covers weeks 1–6)** | —    |
-| 9    | Oct 20 – Oct 24      | Inventory management with setup times and no demand uncertainty | 5 (pages 81-110)        |
-| 10   | Oct 27 – Oct 31      | Inventory management with demand uncertainty              | 5 (multi-product EOQ from slidess), 14 (pages 293-296 & pages 307-312) |
-| 11   | Nov 03 – Nov 07      | Inventory management with demand uncertainty continued    | 14 (pages 296-302 & pages 314)             |
-| 12   | Nov 10 – Nov 14      | Forecasting                                               | 13             |
-| 13   | Nov 17 – Nov 21      | Basics of Supply Chain                                    | 15, 19, slides |
-| 14   | Nov 24 – Nov 28      | Basics of Supply Chain continued                          | 15, 19, slides |
-| 15   | Dec 01 – Dec 05      | Basics of Revenue Management                              | 18.1–18.4      |
-| 16   | Dec 08 – Dec 12      | **Final exam review, and final exam (covers weeks 1–15)** | —              |
+| Week | Dates (Mon–Fri)      | Topic                                                                   | Reading Assignment & Chapter(s)                            |
+|------|----------------------|-------------------------------------------------------------------------|------------------------------------------------------------|
+| 1    | Aug 25 – Aug 29      | Into to Operations Management                                           | 1 (pages 1-9)                                              |
+| 2    | Sep 01 – Sep 05      | Process Analysis and Little’s law                                       | 2,3 (pages 10-19 & pages 32-44)                            |  
+| 3    | Sep 08 – Sep 12      | Process Analysis Continued                                              | 2,3 (pages 10-19 & pages 32-44)                            |
+| 4    | Sep 15 – Sep 19      | Process Imporvement and Labor Cost                                      | 4 (pages 56-80)                                            |
+| 5    | Sep 22 – Sep 26      | Variability in Processes                                                | 9.1–9.5 (pages 171-183)                                    |
+| 6    | Sep 29 – Oct 03      | Variability in Processes Continued                                      | 9.6–9.10 (pages 184-190 & pages 194-202)                   |
+| 7    | Oct 06 – Oct 10      | Quality Management                                                      | 7  (pages 128-135 & pages 138-149)                         |
+| 8    | Oct 13 – Oct 17      | **Fall break, midterm review, and midterm exam (covers weeks 1–6)**     | —                                                          |
+| 9    | Oct 20 – Oct 24      | Inventory Management: Setup Time and Economic Order Quantity            | 5 (pages 81-110)                                           |
+| 10   | Oct 27 – Oct 31      | Inventory Management: Modeling Demand Uncertainty and Newsvendor Model  | 5 (multi-product EOQ from slidess), 14 (pages 293-296 & pages 307-312) |
+| 11   | Nov 03 – Nov 07      | Inventory Management: Newsvendor Model and Managerial Levers            | 14 (pages 296-302 & pages 314) & 15 (pages 326-335)        |
+| 12   | Nov 10 – Nov 14      | Forecasting: Methods and Error Analysis                                 | 13 (264-281)                                               |
+| 13   | Nov 17 – Nov 21      | Forecasting: Trend and Seasonality                                      | 13 (282-287)                                               |
+| 14   | Nov 24 – Nov 28      | Project Management                                                      | 12                                                         |
+| 15   | Dec 01 – Dec 05      | Revenue Management                                                      | 18.1–18.4                                                  |
+| 16   | Dec 08 – Dec 12      | **Final exam review, and final exam (covers weeks 1–15)**               | —                         |
 
 ⚠️ Students are required to read the assigned chapters of the textbook in order to participate in class discussions and complete assignments.
-
-<!-- ## 📅 Course Schedule
-| Week | Dates (Mon–Fri)      | Topic                                                     | Chapter(s)     |
-|------|----------------------|-----------------------------------------------------------|----------------|
-| 1    | Aug 25 – Aug 29      | Introduction & Process View of Operations                | 1, 2           |
-| 2    | Sep 01 – Sep 05      | Process Analysis & Balancing                             | 3, 4           |
-| 3    | Sep 08 – Sep 12      | Variability in Processes                                 | 9.1–9.5        |
-| 4    | Sep 15 – Sep 19      | Queueing Fundamentals                                    | 9.6–9.10, 11   |
-| 5    | Sep 22 – Sep 26      | Managing Flow Interruptions & EOQ                        | 5              |
-| 6    | Sep 29 – Oct 03      | Inventory under Uncertain Demand (Newsvendor Model)      | 14             |
-| 7    | Oct 06 – Oct 10      | Multi-Period Inventory Systems (Order-up-to Model)       | 16             |
-| 8    | Oct 13 – Oct 17      | **Fall break, midterm review, and midterm exam (covers weeks 1–7)** | —    |
-| 9    | Oct 20 – Oct 24      | Forecasting                                              | 13             |
-| 10   | Oct 27 – Oct 31      | Risk Pooling                                             | 17             |
-| 11   | Nov 03 – Nov 07      | Revenue Management Fundamentals                          | 18.1–18.4      |
-| 12   | Nov 10 – Nov 14      | Supply Chain Fundamentals                                | 15, 19         |
-| 13   | Nov 17 – Nov 21      | Supply Chain Coordination                                | 19             |
-| 14   | Nov 24 – Nov 28      | Quality Management                                       | 7              |
-| 15   | Dec 01 – Dec 05      | Lean Operations                                          | 8              |
-| 16   | Dec 08 – Dec 12      | **Final exam review, and final exam (covers weeks 1–15)** | —              |
---- -->
-
+ 
 
 
 ## ⚠️ Exam Dates – Please Read Carefully
