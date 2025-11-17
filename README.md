@@ -230,8 +230,8 @@ Grades in this course are curved to ensure fairness. After raw scores are calcul
 | 10   | Oct 27 – Oct 31      | Inventory Management: Modeling Demand Uncertainty and Newsvendor Model  | 5 (multi-product EOQ from slidess), 14 (pages 293-296 & pages 307-312) |
 | 11   | Nov 03 – Nov 07      | Inventory Management: Newsvendor Model and Managerial Levers            | 14 (pages 296-302 & pages 314) & 15 (pages 326-335)        |
 | 12   | Nov 10 – Nov 14      | Forecasting: Methods and Error Analysis                                 | 13 (264-281)                                               |
-| 13   | Nov 17 – Nov 21      | Forecasting: Trend and Seasonality                                      | 13 (282-287)                                               |
-| 14   | Nov 24 – Nov 28      | Project Management                                                      | 12                                                         |
+| 13   | Nov 17 – Nov 21      | Forecasting Continued; Project Management                               | 13 (282-287) &  12 ()                                      |
+| 14   | Nov 24 – Nov 28      | Project Management Continued                                            | 12 ()                                                      |
 | 15   | Dec 01 – Dec 05      | Revenue Management                                                      | 18.1–18.4                                                  |
 | 16   | Dec 08 – Dec 12      | **Final exam review, and final exam (covers weeks 1–15)**               | —                         |
 
